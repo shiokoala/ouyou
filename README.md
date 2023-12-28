@@ -3,7 +3,8 @@
 ## Contents
 
 - `input_gen.ipynb`
-  - 目標水圧(mbar)のファイルを生成します
+  - 目標水圧(mbar)のファイルを生成します。
+  - 12/28二宮追記 評価方法の変更のため今は使っていません
 - `score.ipynb`
   - `print_result(df_result:pd.DataFrame, df_target:pd.DataFrame)`で結果シートが出力されます。
     - kwargs オプション
